@@ -139,6 +139,7 @@ npm install -D nodemon
 ## 🖥️ How to Run Locally  
 
 ### Clone project
+```bash
 git clone https://github.com/cs-rajat/warmpaws
 
 **Frontend**
@@ -150,7 +151,7 @@ npm run dev
 cd warmpaws/server
 npm install
 npm run dev
-
+```
 ---
 
 ## ⭐ 2. Hotel Booking App  
