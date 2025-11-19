@@ -6,33 +6,43 @@
 <!-- Name & Title -->
 <h1 align="center">Hi, I'm <strong>Rajat Mandal</strong> 👋</h1>
 <h3 align="center">Frontend Developer • MERN Stack Learner • Tech Enthusiast</h3>
+<div id="user-content-toc">
+  <ul align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Passionate+Full+Stack+Web+Developer;JavaScript+Enthusiast;" alt="Typing SVG" /></a>
+  </ul>
+</div>
 
 <br/>
 
 ---
 
-# 👨‍💻 About Me  
+# 👨‍💻 About Me
+
 I'm a passionate Web Developer from Bangladesh who loves building clean, modern UI and functional websites.
 
-✨ **What I'm doing now:**  
-- 🚀 Exploring **Next.js**  
-- 🌍 Building a **Tourism Website Project**  
-- 🎨 Improving UI/UX with **Tailwind CSS**  
-- 🔥 Learning full **MERN Stack Development**  
+✨ **What I'm doing now:**
+
+- 🚀 Exploring **Next.js**
+- 🌍 Building a **Tourism Website Project**
+- 🎨 Improving UI/UX with **Tailwind CSS**
+- 🔥 Learning full **MERN Stack Development**
 
 📌 My goal is simple:  
 **Build beautiful, fast and user-friendly web applications.**
 
 ---
 
-# 📍 Location & Contact  
-- **📌 Location:** Dhaka, Bangladesh  
-- **📧 Email:** cs.rajat75@gmail.com  
+# 📍 Location & Contact
+
+- **📌 Location:** Dhaka, Bangladesh
+- **📧 Email:** cs.rajat75@gmail.com
 
 ---
 
-# 🛠️ Skills & Technologies  
+# 🛠️ Skills & Technologies
+
 ### 🎨 Frontend
+
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -43,6 +53,7 @@ I'm a passionate Web Developer from Bangladesh who loves building clean, modern 
 </p>
 
 ### ⚙️ Backend
+
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express"/>
@@ -52,7 +63,8 @@ I'm a passionate Web Developer from Bangladesh who loves building clean, modern 
 </p>
 ---
 
-# 🔗 Connect With Me  
+# 🔗 Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/your-profile" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
@@ -69,7 +81,8 @@ I'm a passionate Web Developer from Bangladesh who loves building clean, modern 
 
 ---
 
-# 📊 GitHub Stats  
+# 📊 GitHub Stats
+
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=cs-rajat&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cs-rajat&layout=compact&theme=tokyonight&hide_border=true"/>
@@ -81,7 +94,7 @@ I'm a passionate Web Developer from Bangladesh who loves building clean, modern 
 
 ---
 
-# 📌 Pinned Repositories  
+# 📌 Pinned Repositories
 
 # 🐾 Warmpaws – Pet Adoption & Rescue Platform
 
@@ -89,56 +102,64 @@ Warmpaws is a pet adoption and rescue web application where users can view anima
 
 ---
 
-## 🚀 Live Site  
+## 🚀 Live Site
+
 🔗 Live Link: https://your-live-url  
 🔗 Client Repo: https://github.com/cs-rajat/warmpaws  
 🔗 Server Repo: https://github.com/cs-rajat/warmpaws-server (if any)
 
 ---
 
-## 🛠️ Tech Stack  
-### Frontend  
-- React  
-- React Router  
-- Axios  
-- Tailwind CSS  
-- Vite  
+## 🛠️ Tech Stack
 
-### Backend  
-- Node.js  
-- Express.js  
-- MongoDB  
-- Mongoose  
-- JWT  
-- Bcrypt  
-- CORS  
+### Frontend
 
----
+- React
+- React Router
+- Axios
+- Tailwind CSS
+- Vite
 
-## ⭐ Features  
-- Pet Adoption System  
-- Pet Filtering & Search  
-- Admin Pet Management Dashboard  
-- User Authentication (JWT)  
-- Donation Page  
-- Fully Responsive  
-- Pet details with gallery  
+### Backend
+
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- JWT
+- Bcrypt
+- CORS
 
 ---
 
-## 📦 Dependencies  
+## ⭐ Features
 
-### Frontend  
+- Pet Adoption System
+- Pet Filtering & Search
+- Admin Pet Management Dashboard
+- User Authentication (JWT)
+- Donation Page
+- Fully Responsive
+- Pet details with gallery
+
+---
+
+## 📦 Dependencies
+
+### Frontend
+
 npm install react react-dom react-router-dom axios
 npm install tailwindcss postcss autoprefixer
 npm install -D vite eslint prettier
 
-### Backend  
+### Backend
+
 npm install -D nodemon
 
-## 🖥️ How to Run Locally  
+## 🖥️ How to Run Locally
 
 ### Clone project
+
 ```bash
 git clone https://github.com/cs-rajat/warmpaws
 
@@ -152,11 +173,10 @@ cd warmpaws/server
 npm install
 npm run dev
 ```
----
-
 
 ---
 
+---
 
 # 🍽️ PlateShare – Community Food Sharing Platform
 
@@ -164,56 +184,64 @@ PlateShare is a MERN-based food sharing platform designed to reduce food waste b
 
 ---
 
-## 🚀 Live Links  
+## 🚀 Live Links
+
 🔗 Live Website: https://your-live-url  
 🔗 Client Repo: https://github.com/cs-rajat/plate-share  
 🔗 Server Repo: https://github.com/cs-rajat/plate-share-server (if any)
 
 ---
 
-## 🛠️ Tech Stack  
-### Frontend  
-- React  
-- React Router  
-- Axios  
-- Firebase Auth  
-- Tailwind CSS  
+## 🛠️ Tech Stack
 
-### Backend  
-- Node.js  
-- Express.js  
-- MongoDB  
-- Cloudinary  
-- Multer  
-- JWT  
+### Frontend
 
----
+- React
+- React Router
+- Axios
+- Firebase Auth
+- Tailwind CSS
 
-## ⭐ Features  
-- Create & Share Food Posts  
-- Food Pickup Location Mapping  
-- Firebase Authentication  
-- Image Upload (Cloudinary)  
-- User Dashboard  
-- Admin Post Moderation  
-- Fully Responsive UI  
+### Backend
+
+- Node.js
+- Express.js
+- MongoDB
+- Cloudinary
+- Multer
+- JWT
 
 ---
 
-## 📦 Dependencies  
+## ⭐ Features
 
-### Frontend  
+- Create & Share Food Posts
+- Food Pickup Location Mapping
+- Firebase Authentication
+- Image Upload (Cloudinary)
+- User Dashboard
+- Admin Post Moderation
+- Fully Responsive UI
+
+---
+
+## 📦 Dependencies
+
+### Frontend
+
 npm install react react-router-dom axios firebase
 npm install tailwindcss postcss autoprefixer
 
 ### Backend
+
 npm install express mongoose cors dotenv
 npm install multer cloudinary jsonwebtoken bcrypt
 npm install -D nodemon
 
-## 🖥️ How to Run Locally  
+## 🖥️ How to Run Locally
 
 ### Clone project
+
 ```bash
 git clone https://github.com/cs-rajat/plate-share
 
@@ -237,7 +265,9 @@ A classic Snake game implemented in **Java** (works with VS Code). It's a lightw
 ---
 
 ## 🚀 Overview
+
 This is a simple Snake game that demonstrates:
+
 - Real-time keyboard input handling
 - 2D canvas rendering
 - Game loop with frame control
@@ -248,13 +278,15 @@ Great for learning fundamentals of game programming in Java and for showing inte
 ---
 
 ## 🛠️ Tech Stack
-- Java (JDK 11+ recommended)  
-- Swing / AWT for rendering (or JavaFX if implemented that way)  
+
+- Java (JDK 11+ recommended)
+- Swing / AWT for rendering (or JavaFX if implemented that way)
 - VS Code (or any IDE like IntelliJ IDEA, Eclipse)
 
 ---
 
 ## ⭐ Main Features
+
 - Arrow-key movement
 - Food spawning and score tracking
 - Increasing snake length on eating food
@@ -264,26 +296,33 @@ Great for learning fundamentals of game programming in Java and for showing inte
 ---
 
 ## 📦 Dependencies
+
 If the game uses only standard Java libraries (Swing/AWT), there are no external dependencies—just ensure you have a JDK installed.  
 If you used external libraries, list them here (e.g., JavaFX).
 
 ---
 
 ## 🖥️ How to Run Locally (Java)
+
 1. Ensure you have **JDK 11+** installed.
 2. Clone the repo:
+
 ```bash
 git clone https://github.com/cs-rajat/snake-game
 cd snake-game
 ```
+
 3. Compile and run (example using javac/java):
+
 ```bash
 javac *.java
 java Main
 ```
+
 Or if using Gradle/Maven, use the respective build commands.
 
 If you are using VS Code:
+
 - Open the folder in VS Code
 - Install Java Extension Pack
 - Run the main class from the Run panel or use the terminal commands above
@@ -291,7 +330,5 @@ If you are using VS Code:
 ---
 
 ## 🔗 Links
-- **Repo:** https://github.com/cs-rajat/SnakeGame.git  
 
-
-
+- **Repo:** https://github.com/cs-rajat/SnakeGame.git
