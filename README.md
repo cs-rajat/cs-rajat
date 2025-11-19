@@ -66,7 +66,7 @@ I'm a passionate Web Developer from Bangladesh who loves building clean, modern 
 # 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="www.linkedin.com/in/rajat-mandal" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
   </a>
   &nbsp;&nbsp;
@@ -104,9 +104,8 @@ Warmpaws is a pet adoption and rescue web application where users can view anima
 
 ## 🚀 Live Site
 
-🔗 Live Link: https://your-live-url  
-🔗 Client Repo: https://github.com/cs-rajat/warmpaws  
-🔗 Server Repo: https://github.com/cs-rajat/warmpaws-server (if any)
+🔗 Live Link: https://petcare24.netlify.app/  
+🔗 Client Repo: https://github.com/cs-rajat/warmpaws.git
 
 ---
 
@@ -164,12 +163,10 @@ npm install -D nodemon
 git clone https://github.com/cs-rajat/warmpaws
 
 **Frontend**
-cd warmpaws/client
 npm install
 npm run dev
 
 **Backend**
-cd warmpaws/server
 npm install
 npm run dev
 ```
@@ -186,9 +183,9 @@ PlateShare is a MERN-based food sharing platform designed to reduce food waste b
 
 ## 🚀 Live Links
 
-🔗 Live Website: https://your-live-url  
-🔗 Client Repo: https://github.com/cs-rajat/plate-share  
-🔗 Server Repo: https://github.com/cs-rajat/plate-share-server (if any)
+🔗 Live Website:https://plate-share24.netlify.app/ 
+🔗 Client Repo: https://github.com/cs-rajat/Plate-Share-Client.git 
+🔗 Server Repo: https://github.com/cs-rajat/Plant-Share-Server.git
 
 ---
 
@@ -243,15 +240,14 @@ npm install -D nodemon
 ### Clone project
 
 ```bash
-git clone https://github.com/cs-rajat/plate-share
+git clone https://github.com/cs-rajat/Plant-Share-Server.git
+git clone https://github.com/cs-rajat/Plant-Share-Client.git
 
 **Frontend**
-cd plate-share/client
 npm install
 npm run dev
 
 **Backend**
-cd plate-share/server
 npm install
 npm run dev
 ```
@@ -308,7 +304,6 @@ If you used external libraries, list them here (e.g., JavaFX).
 2. Clone the repo:
 
 ```bash
-git clone https://github.com/cs-rajat/snake-game
 cd snake-game
 ```
 
