@@ -83,11 +83,74 @@ I'm a passionate Web Developer from Bangladesh who loves building clean, modern 
 
 # 📌 Pinned Repositories  
 
-## ⭐ 1. Tourism Website  
-A modern tourism and travel management web app with search, categories, filtering & booking.  
-**Tech:** React, Node.js, Express, MongoDB, Tailwind  
-🔗 **Live:** https://your-live-url  
-🔗 **Repo:** https://github.com/cs-rajat/tourism-website  
+# 🐾 Warmpaws – Pet Adoption & Rescue Platform
+
+Warmpaws is a pet adoption and rescue web application where users can view animals, request adoption, donate, and interact with the community. Admins can add, manage, and monitor pets.
+
+---
+
+## 🚀 Live Site  
+🔗 Live Link: https://your-live-url  
+🔗 Client Repo: https://github.com/cs-rajat/warmpaws  
+🔗 Server Repo: https://github.com/cs-rajat/warmpaws-server (if any)
+
+---
+
+## 🛠️ Tech Stack  
+### Frontend  
+- React  
+- React Router  
+- Axios  
+- Tailwind CSS  
+- Vite  
+
+### Backend  
+- Node.js  
+- Express.js  
+- MongoDB  
+- Mongoose  
+- JWT  
+- Bcrypt  
+- CORS  
+
+---
+
+## ⭐ Features  
+- Pet Adoption System  
+- Pet Filtering & Search  
+- Admin Pet Management Dashboard  
+- User Authentication (JWT)  
+- Donation Page  
+- Fully Responsive  
+- Pet details with gallery  
+
+---
+
+## 📦 Dependencies  
+
+### Frontend  
+npm install react react-dom react-router-dom axios
+npm install tailwindcss postcss autoprefixer
+npm install -D vite eslint prettier
+
+### Backend  
+npm install -D nodemon
+
+## 🖥️ How to Run Locally  
+
+### Clone project
+```bash
+git clone https://github.com/cs-rajat/warmpaws
+
+**Frontend**
+cd warmpaws/client
+npm install
+npm run dev
+
+**Backend**
+cd warmpaws/server
+npm install
+npm run dev
 
 ---
 
