@@ -139,7 +139,6 @@ npm install -D nodemon
 ## 🖥️ How to Run Locally  
 
 ### Clone project
-```bash
 git clone https://github.com/cs-rajat/warmpaws
 
 **Frontend**
