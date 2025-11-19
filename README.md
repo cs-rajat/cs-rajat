@@ -230,40 +230,68 @@ npm run dev
 
 ---
 
-## ⭐ 3. PlateShare – Food Sharing Platform  
-A community platform to share food and reduce waste.  
-**Tech:** React, Express, MongoDB, Firebase  
-🔗 **Live:** https://your-live-url  
-🔗 **Repo:** https://github.com/cs-rajat/plate-share  
+# 🐍 Snake Game
+
+A classic Snake game implemented in **Java** (works with VS Code). It's a lightweight desktop game—perfect to showcase in your GitHub profile as a pinned project.
 
 ---
 
+## 🚀 Overview
+This is a simple Snake game that demonstrates:
+- Real-time keyboard input handling
+- 2D canvas rendering
+- Game loop with frame control
+- Collision detection and scoring logic
+
+Great for learning fundamentals of game programming in Java and for showing interactive UI logic on your profile.
 
 ---
 
-## 🚀 Live Links  
-- **Live Website:** https://your-live-url  
-- **Client Repo:** https://github.com/...  
-- **Server Repo:** https://github.com/...  
+## 🛠️ Tech Stack
+- Java (JDK 11+ recommended)  
+- Swing / AWT for rendering (or JavaFX if implemented that way)  
+- VS Code (or any IDE like IntelliJ IDEA, Eclipse)
 
 ---
 
-## 🛠️ Tech Stack  
-- React  
-- Express  
-- Node.js  
-- MongoDB  
-- Tailwind CSS  
+## ⭐ Main Features
+- Arrow-key movement
+- Food spawning and score tracking
+- Increasing snake length on eating food
+- Game over condition on collision with wall or self
+- Pause / Restart functionality (if implemented)
 
 ---
 
-## ⭐ Main Features  
-- User Authentication  
-- Dynamic Search  
-- Dashboard  
-- CRUD Operations  
-- Responsive Layout  
+## 📦 Dependencies
+If the game uses only standard Java libraries (Swing/AWT), there are no external dependencies—just ensure you have a JDK installed.  
+If you used external libraries, list them here (e.g., JavaFX).
 
 ---
 
-## 📦 Dependencies  
+## 🖥️ How to Run Locally (Java)
+1. Ensure you have **JDK 11+** installed.
+2. Clone the repo:
+```bash
+git clone https://github.com/cs-rajat/snake-game
+cd snake-game
+```
+3. Compile and run (example using javac/java):
+```bash
+javac *.java
+java Main
+```
+Or if using Gradle/Maven, use the respective build commands.
+
+If you are using VS Code:
+- Open the folder in VS Code
+- Install Java Extension Pack
+- Run the main class from the Run panel or use the terminal commands above
+
+---
+
+## 🔗 Links
+- **Repo:** https://github.com/cs-rajat/SnakeGame.git  
+
+
+
