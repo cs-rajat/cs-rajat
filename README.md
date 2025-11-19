@@ -154,11 +154,81 @@ npm run dev
 ```
 ---
 
-## ⭐ 2. Hotel Booking App  
-Feature-rich hotel booking platform with authentication & payment integration.  
-**Tech:** MERN Stack, JWT Auth, Stripe  
-🔗 **Live:** https://your-live-url  
-🔗 **Repo:** https://github.com/cs-rajat/hotel-booking  
+
+---
+
+# ✅ **2) PlateShare — README.md**
+
+```md
+# 🍽️ PlateShare – Community Food Sharing Platform
+
+PlateShare is a MERN-based food sharing platform designed to reduce food waste by connecting people with surplus meals to those who need them.
+
+---
+
+## 🚀 Live Links  
+🔗 Live Website: https://your-live-url  
+🔗 Client Repo: https://github.com/cs-rajat/plate-share  
+🔗 Server Repo: https://github.com/cs-rajat/plate-share-server (if any)
+
+---
+
+## 🛠️ Tech Stack  
+### Frontend  
+- React  
+- React Router  
+- Axios  
+- Firebase Auth  
+- Tailwind CSS  
+
+### Backend  
+- Node.js  
+- Express.js  
+- MongoDB  
+- Cloudinary  
+- Multer  
+- JWT  
+
+---
+
+## ⭐ Features  
+- Create & Share Food Posts  
+- Food Pickup Location Mapping  
+- Firebase Authentication  
+- Image Upload (Cloudinary)  
+- User Dashboard  
+- Admin Post Moderation  
+- Fully Responsive UI  
+
+---
+
+## 📦 Dependencies  
+
+### Frontend  
+npm install react react-router-dom axios firebase
+npm install tailwindcss postcss autoprefixer
+
+### Backend
+npm install express mongoose cors dotenv
+npm install multer cloudinary jsonwebtoken bcrypt
+npm install -D nodemon
+
+## 🖥️ How to Run Locally  
+
+### Clone project
+```bash
+git clone https://github.com/cs-rajat/plate-share
+
+**Frontend**
+cd plate-share/client
+npm install
+npm run dev
+
+**Backend**
+cd plate-share/server
+npm install
+npm run dev
+```
 
 ---
 
