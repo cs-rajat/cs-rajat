@@ -93,14 +93,6 @@ A community platform to share food and reduce waste.
 
 ---
 
-# 📘 REPOSITORY README TEMPLATE  
-Use this template inside each project you upload 👇
-
-```md
-# Project Name
-
-## 📝 Overview  
-Short overview of what this project does and why it exists.
 
 ---
 
