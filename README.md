@@ -157,9 +157,7 @@ npm run dev
 
 ---
 
-# ✅ **2) PlateShare — README.md**
 
-```md
 # 🍽️ PlateShare – Community Food Sharing Platform
 
 PlateShare is a MERN-based food sharing platform designed to reduce food waste by connecting people with surplus meals to those who need them.
